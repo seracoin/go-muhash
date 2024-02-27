@@ -1,4 +1,4 @@
-module github.com/sedracoin/go-muhash
+module github.com/seracoin/go-muhash
 
 go 1.16
 
